@@ -61,6 +61,7 @@ opacity: 0.75;
     padding: 5px;
     color:#be6fde;
     font-weight: bold;
+    width: 350px;
 }
 
 
@@ -219,7 +220,7 @@ ul {
 }
 
 li{
-   margin:3px;
+   margin:0px;
 }
 
 #list{
